@@ -1,6 +1,7 @@
 # TimeLineView
 
 ### 功能
+ * 基于android x RecyclerView.ItemDecoration
  * 统一设置item大小和图标
  * 单独设置每个item指示器大小
  * 单独设置每个item指示器图标
