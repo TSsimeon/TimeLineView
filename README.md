@@ -27,4 +27,4 @@
  * 全部用法可以查看app demo
 
 ### 效果
-<img src="https://github.com/TSsimeon/TimeLineView/blob/master/img/img1.jpg" width="320" height="480"/>  <img src="https://github.com/TSsimeon/TimeLineView/blob/master/img/img2.jpg"  width="320" height="480"/>  <img src="https://github.com/TSsimeon/TimeLineView/blob/master/img/img2.jpg"  width="320" height="480"/>
+<img src="https://github.com/TSsimeon/TimeLineView/blob/master/img/img1.jpg" width="320" height="480"/>   <img src="https://github.com/TSsimeon/TimeLineView/blob/master/img/img2.jpg"  width="320" height="480"/>   <img src="https://github.com/TSsimeon/TimeLineView/blob/master/img/img3.png"  width="320" height="480"/>
